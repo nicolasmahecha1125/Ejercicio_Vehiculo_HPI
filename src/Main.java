@@ -12,6 +12,7 @@ public class Main {
         //mostrar informacion de propietarioa y vehiculos
         propietario1.mostrarInformacion();
         propietario2.mostrarInformacion();
+
         
 
     }

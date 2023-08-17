@@ -1,7 +1,7 @@
 public class Propietario {
     private  String nombre;
     private  String apellido;
-    public Vehiculo vehiculo;
+    private Vehiculo vehiculo;
     public Propietario(String nombre,String apellido,Vehiculo vehiculo){
         this.nombre = nombre;
         this.apellido = apellido;
